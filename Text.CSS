@@ -1,0 +1,22 @@
+body {
+	
+}
+}
+
+#searchbox {
+	padding: 10px;
+	display: none;
+}
+
+#searchbox input {
+	height: 25px;
+	color: #373737;
+	width: 200px;
+}
+
+#searchbox button {
+	height: 31px;
+	background-color: #0096c9;
+	border: 2px solid #0096c9;
+	width: 80px;
+}
